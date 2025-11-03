@@ -1,6 +1,9 @@
 using UnityEngine;
 
-public class JudgementType
+public enum JudgementType
 {
-    
+    PERFECT,
+    GREAT,
+    GOOD,
+    MISS
 }
